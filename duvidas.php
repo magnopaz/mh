@@ -8,7 +8,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title>MARIA HELENA TURQUETTI - TERAPEUTA CEASE</title>
+<title>MARIA HELENA VEDOVATTO - TERAPEUTA CEASE</title>
 <!--fonts-->
 <link href='//fonts.googleapis.com/css?family=Righteous' rel='stylesheet' type='text/css'>
 <link href='//fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
@@ -18,8 +18,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <link href="css/chocolat.css" rel="stylesheet">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="MARIA HELENA TURQUETTI - TERAPEUTA CEASE, Tratamento Homeopático para o Autismo, Android Compatible web template, 
-Smartphone Compatible web template, Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+<meta name="keywords" content="MARIA HELENA VEDOVATTO - TERAPEUTA CEASE, Tratamento Homeopático para o Autismo" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />-->
 <!-- Custom Theme files -->
@@ -68,9 +67,8 @@ Smartphone Compatible web template, Nokia, Samsung, LG, SonyErricsson, Motorola 
 					<li><a href="index.php">INICIO</a></li>	
 					<li><a href="sobre.php">QUEM SOU</a></li>
 					<li><a href="homeo.php" title="">HOMEOPATIA</a></li>
-                    <li><a href="cease.php" title="">TERAPIA CEASE</a></li>
+                    <li><a href="cease.php" title="">TERAPIA CEASE-HDT</a></li>
 					<li><a href="duvidas.php" title="">DÚVIDAS</a></li>
-                    <li><a href="noticias.php" title="">NOTÍCIAS</a></li>
                     <li><a href="contato.php" title="">ATENDIMENTO</a></li>
                     <li><a href="login.php" title="">Área do Cliente</a></li>						
 				</ul>
@@ -228,7 +226,7 @@ Deve-se fazer um por vez. </p>
 
 <div class="copy-right">
 	<div class="container">
-		<p> &copy; 2016 Maria Helena Turquetti - Terapeuta CEASE. All Rights Reserved | Design by  <a href="http://w3layouts.com/"> W3layouts + Louise</a></p>
+		<p> &copy; 2019 Maria Helena Vedovatto - Terapeuta CEASE-HDT. All Rights Reserved | Design by  <a href="http://w3layouts.com/"> W3layouts + Louise</a></p>
 	</div>
 </div>							
 </body>

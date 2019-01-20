@@ -8,7 +8,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title>MARIA HELENA TURQUETTI - TERAPEUTA CEASE</title>
+<title>MARIA HELENA VEDOVATTO - TERAPEUTA CEASE-HDT</title>
 <!--fonts-->
 <link href='//fonts.googleapis.com/css?family=Righteous' rel='stylesheet' type='text/css'>
 <link href='//fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
@@ -19,8 +19,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="MARIA HELENA TURQUETTI - TERAPEUTA CEASE, Tratamento Homeopático para o Autismo, Android Compatible web template, 
-Smartphone Compatible web template, Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+<meta name="keywords" content="MARIA HELENA VEDOVATTO - TERAPEUTA CEASE-HDT, Tratamento Homeopático para o Autismo" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- //for-mobile-apps -->	
 <!-- js -->
@@ -54,9 +53,8 @@ jQuery(document).ready(function($) {
 					<li><a href="index.php">INICIO</a></li>	
 					<li><a href="sobre.php">TERAPEUTA</a></li>
 					<li><a href="homeo.php" title="">HOMEOPATIA</a></li>
-                    <li><a href="cease.php" title="">TERAPIA CEASE</a></li>
-					<li><a href="duvidas.php" title="">DÚVIDAS</a></li>
-                    <li><a href="noticias.php" title="">NOTÍCIAS</a></li>
+                    <li><a href="cease.php" title="">TERAPIA CEASE-HDT</a></li>
+					<li><a href="duvidas.php" title="">DÚVIDAS</a></li>                    
                     <li><a href="contato.php" title="">ATENDIMENTO</a></li>
                     <li><a href="login.php" title="">Área do Cliente</a></li>						
 								</ul>
@@ -105,8 +103,8 @@ jQuery(document).ready(function($) {
 							<div class="container">
 								<div class="banner-info">
 									<h3> SEJA <span></span> BEM <span></span> VINDO!!!</h3>>
-									<h4><span>TERAPIA </span> CEASE</h4>
-									<p>Maria Helena Turquetti</p>
+									<h4><span>TERAPIA </span> CEASE-HDT</h4>
+									<p>Maria Helena Vedovatto</p>
 								</div>
 							</div>
 					</div>
@@ -116,8 +114,8 @@ jQuery(document).ready(function($) {
 							<div class="container">
 								<div class="banner-info">
 									<h3> SEJA <span></span> BEM <span></span> VINDO!!!</h3>>
-									<h4><span>TERAPIA </span> CEASE</h4>
-									<p>Maria Helena Turquetti</p>
+									<h4><span>TERAPIA </span> CEASE-HDT</h4>
+									<p>Maria Helena Vedovatto</p>
 								</div>
 							</div>
 					</div>
@@ -127,20 +125,9 @@ jQuery(document).ready(function($) {
 		</div>
 </div>
 <div class="clearfix"></div>
-<!-- //banner-slider -->
-<!-- welcome --><!-- //welcome -->
-<!-- about --><!-- //about -->
-<!-- services --><!-- services -->
-<!-- team -->
-<!--start-teachers-->
-<!--//end-teachers-->
-<!-- //team -->
-<!-- gallery --><!-- //gallery -->
-<!-- contact -->
-<!-- //contact -->
 <div class="copy-right">
 	<div class="container">
-		<p> &copy; 2016 Turquetti Terapia CEASE. All Rights Reserved | Design by  <a href="http://w3layouts.com/"> W3layouts + Louise                         </a></p>
+		<p> &copy; 2019 Vedovatto Terapia CEASE-HDT. All Rights Reserved | Design by  <a href="http://w3layouts.com/"> W3layouts + Louise                         </a></p>
         <p>. </p>
         <p>. </p>
         <p>. </p>

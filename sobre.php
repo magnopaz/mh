@@ -8,7 +8,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title>MARIA HELENA TURQUETTI - TERAPEUTA CEASE</title>
+<title>MARIA HELENA VEDOVATTO - TERAPEUTA CEASE-HDT</title>
 <!--fonts-->
 <link href='//fonts.googleapis.com/css?family=Righteous' rel='stylesheet' type='text/css'>
 <link href='//fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
@@ -19,8 +19,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="MARIA HELENA TURQUETTI - TERAPEUTA CEASE, Tratamento Homeopático para o Autismo, Android Compatible web template, 
-Smartphone Compatible web template, Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+<meta name="keywords" content="MARIA HELENA VEDOVATTO - TERAPEUTA CEASE-HDT, Tratamento Homeopático para o Autismo" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- //for-mobile-apps -->	
 <!-- js -->
@@ -54,9 +53,8 @@ jQuery(document).ready(function($) {
 					<li><a href="index.php">INICIO</a></li>	
 					<li><a href="sobre.php">TERAPEUTA</a></li>
 					<li><a href="homeo.php" title="">HOMEOPATIA</a></li>
-                    <li><a href="cease.php" title="">TERAPIA CEASE</a></li>
+                    <li><a href="cease.php" title="">TERAPIA CEASE-HDT</a></li>
 					<li><a href="duvidas.php" title="">DÚVIDAS</a></li>
-                    <li><a href="noticias.php" title="">NOTÍCIAS</a></li>
                     <li><a href="contato.php" title="">ATENDIMENTO</a></li>
                     <li><a href="login.php" title="">Área do Cliente</a></li>						
 				</ul>
@@ -100,14 +98,14 @@ jQuery(document).ready(function($) {
 <!-- about -->
 	<div class="about" id="about">
 		<div class="container">
-			<h3>MARIA HELENA TURQUETTI</h3>
+			<h3>MARIA HELENA VEDOVATTO</h3>
 			<div class="about-grids">
 				<div class="col-md-6 about-grid-right">
 					<img src="images/maria.jpg" alt=" " class="img-responsive center-block" />
 				</div>
 				 <div class="col-md-6 about-grid-left">
 					<h4>Terapeuta Certificada CEASE</h4>
-					<p class="text-justify"> A terapeuta Maria Helena Turquetti sempre desenvolve estudos, absorvendo e trazendo ao Brasil novos conhecimentos e técnicas, através de seus atendimentos e cursos ministrados.
+					<p class="text-justify"> A terapeuta Maria Helena Vedovatto sempre desenvolve estudos, absorvendo e trazendo ao Brasil novos conhecimentos e técnicas, através de seus atendimentos e cursos ministrados.
           <span> Sua satisfação e realização profissional acontecem quando seus clientes alcançam resultados efetivos, voltados a uma   melhor qualidade de vida, e consequente harmonia e felicidade.
           Coloca indistintamente ao alcance de todos que a procuram um portfolio de técnicas eficazes de  combate a doenças e disfunções, obtidas de sua prática de atendimentos, calcada na ética e em sua sólida formação teórica e prática.</span></p>
                      <p>
@@ -148,7 +146,7 @@ jQuery(document).ready(function($) {
 <!-- //about -->
 <div class="copy-right">
 	<div class="container">
-		<p> &copy; 2016 Maria Helena Turquetti - Terapeuta CEASE. All Rights Reserved | Design by  <a href="http://w3layouts.com/"> W3layouts + Louise</a></p>
+		<p> &copy; 2019 Maria Helena Vedovatto - Terapeuta CEASE-HDT. All Rights Reserved | Design by  <a href="http://w3layouts.com/"> W3layouts + Louise</a></p>
 	</div>
 </div>
 <!-- smooth scrolling -->
