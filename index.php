@@ -128,12 +128,6 @@ jQuery(document).ready(function($) {
 <div class="copy-right">
 	<div class="container">
 		<p> &copy; 2019 Vedovatto Terapia CEASE-HDT. All Rights Reserved | Design by  <a href="http://w3layouts.com/"> W3layouts + Louise                         </a></p>
-        <p>. </p>
-        <p>. </p>
-        <p>. </p>
-        <p>. </p>
-        <p>. </p>
-        <p>. </p>
 	</div>
 </div>
 <!-- smooth scrolling -->
